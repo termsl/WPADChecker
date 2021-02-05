@@ -11,6 +11,6 @@ Windows 10 x64
 Windows Server 2012R2 x64
 Windows Server 2016
 
-Based on source of "Using PAC files proxy"
-https://www.codeproject.com/Articles/12168/Using-PAC-files-proxy
-Author: Glaxalg https://www.codeproject.com/script/Membership/View.aspx?mid=1796621
+Based on source of "Using PAC files proxy" https://www.codeproject.com/Articles/12168/Using-PAC-files-proxy
+
+Author: Glaxalg
