@@ -1,7 +1,9 @@
 # WPADChecker
-WPAD diagnostic utility
+WPAD / PAC diagnostic utility
 
-Handy tool for system administrators to testing WPAD in Windows. 
+Handy tool for system administrators to testing WPAD* and PAC* in Windows. 
+*Web Proxy Auto-Discovery Protocol / *Proxy auto-config
+
 Just run application WPADChecker, press "Autodetect WPAD location" button and work with results.
 
 Tested OS:
